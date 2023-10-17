@@ -20,10 +20,6 @@ class _CounterState extends State<Counter> {
           )
         ],
         backgroundColor: Colors.orangeAccent,
-        leading: IconButton(onPressed: () {}, icon: (
-          const Icon(Icons.menu),
-          onPressed: () {},
-        )),
       ),
     );
   }
